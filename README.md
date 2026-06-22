@@ -5,7 +5,6 @@
 ### 📌 About Me
 
 - 🎓 **Engineering Student** passionate about solving complex algorithmic problems.
-- 🔭 **Currently working on:** Privacy-first browser extensions & High-Fidelity Traffic Digital Twins.
 - 🌱 **Currently learning:** Advanced Data Structures & MERN Stack.
 - 🏆 **Interests:** Competitive Programming (CP), and AI-ML.
 
